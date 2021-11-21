@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iangncl
+- 👋 Hi, I’m @iangncl (Ian Gunn)
 - 👀 I’m interested in data science, marketing, fishing, and working out!
 - 🌱 I’m currently learning Python, SQL, and data science.
 - 💞️ I’m looking to collaborate on projects and learning exercies!
